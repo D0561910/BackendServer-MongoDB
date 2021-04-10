@@ -1,0 +1,3 @@
+PORT=8000
+MODE=development
+MONGO_URI="mongodb+srv://d0561910:93112808Yiew@cluster0.eesp5.mongodb.net/todolistDB?retryWrites=true&w=majority"
